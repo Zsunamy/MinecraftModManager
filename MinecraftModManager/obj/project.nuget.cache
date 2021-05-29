@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IcDnNNwz0HNHyumAr9/NQ+hyND5kPWbscTBsT2cQGXrpTV+5QkzcQv6HR1ZUSkHmHAv9D89csPA2GI6LJG3zrw==",
+  "dgSpecHash": "A9lHFMGGUQ1cKarAMijivtpeJE30BxUR1t7G7E5a31JpoRHMyEbROMb34lrGW85Lq9c3x+W7am75PfVHGxPoIA==",
   "success": true,
-  "projectFilePath": "C:\\Projekte\\MinecraftModManager\\MinecraftModManager\\MinecraftModManager\\MinecraftModManager.csproj",
+  "projectFilePath": "C:\\Projekte\\MinecraftModManager\\MinecraftModManager\\MinecraftModManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marco\\.nuget\\packages\\eto.forms\\2.5.11\\eto.forms.2.5.11.nupkg.sha512",
     "C:\\Users\\marco\\.nuget\\packages\\eto.platform.wpf\\2.5.11\\eto.platform.wpf.2.5.11.nupkg.sha512",
