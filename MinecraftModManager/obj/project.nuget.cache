@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "dgSpecHash": "nAg2uVu2u9inxchHK7O8sj/Rak9PTTc2es2CZEnxugSHIQ2LZ3fZlZu4QDC5OZj+v8qLoDCdTRR5SiP5XN4Luw==",
+  "success": true,
+  "projectFilePath": "C:\\Projekte\\MinecraftModManager\\MinecraftModManager\\MinecraftModManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marco\\.nuget\\packages\\eto.forms\\2.5.11\\eto.forms.2.5.11.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\eto.platform.wpf\\2.5.11\\eto.platform.wpf.2.5.11.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\eto.serialization.xaml\\2.5.11\\eto.serialization.xaml.2.5.11.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\extended.wpf.toolkit\\3.6.0\\extended.wpf.toolkit.3.6.0.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\portable.xaml\\0.26.0\\portable.xaml.0.26.0.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\windows7apicodepack-core\\1.1.0\\windows7apicodepack-core.1.1.0.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\windows7apicodepack-shell\\1.1.0\\windows7apicodepack-shell.1.1.0.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\5.0.4\\microsoft.netcore.app.runtime.linux-x64.5.0.4.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\5.0.4\\microsoft.netcore.app.host.linux-x64.5.0.4.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.4\\microsoft.netcore.app.runtime.win-x64.5.0.4.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.4\\microsoft.aspnetcore.app.runtime.win-x64.5.0.4.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-x64\\5.0.4\\microsoft.netcore.app.runtime.osx-x64.5.0.4.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.4\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.4.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-x64\\5.0.4\\microsoft.aspnetcore.app.runtime.osx-x64.5.0.4.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\5.0.4\\microsoft.netcore.app.host.osx-x64.5.0.4.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\5.0.4\\microsoft.aspnetcore.app.runtime.linux-x64.5.0.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Extended.Wpf.Toolkit 3.6.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Extended.Wpf.Toolkit",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Windows7APICodePack-Core 1.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Windows7APICodePack-Core",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Windows7APICodePack-Shell 1.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Windows7APICodePack-Shell",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}
