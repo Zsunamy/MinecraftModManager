@@ -1,6 +1,6 @@
 using Eto.Drawing;
 using Eto.Forms;
-using Eto.Serialization.Xaml;
+using Eto.Serialization.Json;
 using System;
 using System.Collections.Generic;
 
@@ -10,7 +10,7 @@ namespace MinecraftModManager
     {
         public MainForm()
         {
-            XamlReader.Load(this);
+            JsonReader.Load(this);
         }
 
         protected void HandleClickMe(object sender, EventArgs e)

@@ -34,20 +34,20 @@
           "Microsoft.WindowsDesktop.App"
         ]
       },
-      "Eto.Serialization.Xaml/2.5.11": {
+      "Eto.Serialization.Json/2.5.11": {
         "type": "package",
         "dependencies": {
           "Eto.Forms": "2.5.11",
-          "Portable.Xaml": "0.26.0"
+          "Newtonsoft.Json": "12.0.3"
         },
         "compile": {
-          "lib/netstandard2.0/Eto.Serialization.Xaml.dll": {}
+          "lib/netstandard2.0/Eto.Serialization.Json.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Eto.Serialization.Xaml.dll": {}
+          "lib/netstandard2.0/Eto.Serialization.Json.dll": {}
         },
         "build": {
-          "build/Eto.Serialization.Xaml.targets": {}
+          "build/Eto.Serialization.Json.targets": {}
         }
       },
       "Extended.Wpf.Toolkit/3.6.0": {
@@ -99,13 +99,13 @@
           }
         }
       },
-      "Portable.Xaml/0.26.0": {
+      "Newtonsoft.Json/12.0.3": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Portable.Xaml.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Portable.Xaml.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
       "System.ComponentModel.Annotations/4.7.0": {
@@ -172,20 +172,20 @@
           "Microsoft.WindowsDesktop.App"
         ]
       },
-      "Eto.Serialization.Xaml/2.5.11": {
+      "Eto.Serialization.Json/2.5.11": {
         "type": "package",
         "dependencies": {
           "Eto.Forms": "2.5.11",
-          "Portable.Xaml": "0.26.0"
+          "Newtonsoft.Json": "12.0.3"
         },
         "compile": {
-          "lib/netstandard2.0/Eto.Serialization.Xaml.dll": {}
+          "lib/netstandard2.0/Eto.Serialization.Json.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Eto.Serialization.Xaml.dll": {}
+          "lib/netstandard2.0/Eto.Serialization.Json.dll": {}
         },
         "build": {
-          "build/Eto.Serialization.Xaml.targets": {}
+          "build/Eto.Serialization.Json.targets": {}
         }
       },
       "Extended.Wpf.Toolkit/3.6.0": {
@@ -237,13 +237,13 @@
           }
         }
       },
-      "Portable.Xaml/0.26.0": {
+      "Newtonsoft.Json/12.0.3": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Portable.Xaml.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Portable.Xaml.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
       "System.ComponentModel.Annotations/4.7.0": {
@@ -310,20 +310,20 @@
           "Microsoft.WindowsDesktop.App"
         ]
       },
-      "Eto.Serialization.Xaml/2.5.11": {
+      "Eto.Serialization.Json/2.5.11": {
         "type": "package",
         "dependencies": {
           "Eto.Forms": "2.5.11",
-          "Portable.Xaml": "0.26.0"
+          "Newtonsoft.Json": "12.0.3"
         },
         "compile": {
-          "lib/netstandard2.0/Eto.Serialization.Xaml.dll": {}
+          "lib/netstandard2.0/Eto.Serialization.Json.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Eto.Serialization.Xaml.dll": {}
+          "lib/netstandard2.0/Eto.Serialization.Json.dll": {}
         },
         "build": {
-          "build/Eto.Serialization.Xaml.targets": {}
+          "build/Eto.Serialization.Json.targets": {}
         }
       },
       "Extended.Wpf.Toolkit/3.6.0": {
@@ -375,13 +375,13 @@
           }
         }
       },
-      "Portable.Xaml/0.26.0": {
+      "Newtonsoft.Json/12.0.3": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Portable.Xaml.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Portable.Xaml.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
       "System.ComponentModel.Annotations/4.7.0": {
@@ -448,20 +448,20 @@
           "Microsoft.WindowsDesktop.App"
         ]
       },
-      "Eto.Serialization.Xaml/2.5.11": {
+      "Eto.Serialization.Json/2.5.11": {
         "type": "package",
         "dependencies": {
           "Eto.Forms": "2.5.11",
-          "Portable.Xaml": "0.26.0"
+          "Newtonsoft.Json": "12.0.3"
         },
         "compile": {
-          "lib/netstandard2.0/Eto.Serialization.Xaml.dll": {}
+          "lib/netstandard2.0/Eto.Serialization.Json.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Eto.Serialization.Xaml.dll": {}
+          "lib/netstandard2.0/Eto.Serialization.Json.dll": {}
         },
         "build": {
-          "build/Eto.Serialization.Xaml.targets": {}
+          "build/Eto.Serialization.Json.targets": {}
         }
       },
       "Extended.Wpf.Toolkit/3.6.0": {
@@ -513,13 +513,13 @@
           }
         }
       },
-      "Portable.Xaml/0.26.0": {
+      "Newtonsoft.Json/12.0.3": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Portable.Xaml.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/Portable.Xaml.dll": {}
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
       "System.ComponentModel.Annotations/4.7.0": {
@@ -590,19 +590,19 @@
         "lib/netcoreapp3.1/Eto.Wpf.dll"
       ]
     },
-    "Eto.Serialization.Xaml/2.5.11": {
-      "sha512": "zZFBBB6wvainYfYSc1NKBZ2CmK1jqEl3aTWhWL7sQZrUpRKio+3hZyGNkYnOVDx5xym3qAW0rNd+zTxdXR02Aw==",
+    "Eto.Serialization.Json/2.5.11": {
+      "sha512": "hXo5pHHNm1cf0aiif1t2q4Okff2sA4Gc9LFQjH7H+hNKpQDR0pZSRbjp7eX+yW/wrf+i9ry/y3T6b7n2CGc/5w==",
       "type": "package",
-      "path": "eto.serialization.xaml/2.5.11",
+      "path": "eto.serialization.json/2.5.11",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Eto-LICENSE.txt",
-        "build/Eto.Serialization.Xaml.targets",
-        "eto.serialization.xaml.2.5.11.nupkg.sha512",
-        "eto.serialization.xaml.nuspec",
-        "lib/netstandard1.0/Eto.Serialization.Xaml.dll",
-        "lib/netstandard2.0/Eto.Serialization.Xaml.dll"
+        "build/Eto.Serialization.Json.targets",
+        "eto.serialization.json.2.5.11.nupkg.sha512",
+        "eto.serialization.json.nuspec",
+        "lib/netstandard1.0/Eto.Serialization.Json.dll",
+        "lib/netstandard2.0/Eto.Serialization.Json.dll"
       ]
     },
     "Extended.Wpf.Toolkit/3.6.0": {
@@ -633,18 +633,35 @@
         "tools/install.ps1"
       ]
     },
-    "Portable.Xaml/0.26.0": {
-      "sha512": "QQ3TwfgLTg5uAphAH8hIsnWXOicEhXVyR1Mk9jBzjqy+1YiigtpHIqhUzZeh02R/4OlXuXH+4i1FlGok5mzFkQ==",
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
       "type": "package",
-      "path": "portable.xaml/0.26.0",
+      "path": "newtonsoft.json/12.0.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "Portable.Xaml-LICENSE.txt",
-        "lib/netstandard1.0/Portable.Xaml.dll",
-        "lib/netstandard2.0/Portable.Xaml.dll",
-        "portable.xaml.0.26.0.nupkg.sha512",
-        "portable.xaml.nuspec"
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
       ]
     },
     "System.ComponentModel.Annotations/4.7.0": {
@@ -767,7 +784,7 @@
     "net5.0-windows7.0": [
       "Eto.Forms >= 2.5.11",
       "Eto.Platform.Wpf >= 2.5.11",
-      "Eto.Serialization.Xaml >= 2.5.11"
+      "Eto.Serialization.Json >= 2.5.11"
     ]
   },
   "packageFolders": {
@@ -778,11 +795,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projekte\\MinecraftModManager\\MinecraftModManager\\MinecraftModManager.csproj",
+      "projectUniqueName": "C:\\Projekte\\MinecraftModManager\\MinecraftModManager\\MinecraftModManager\\MinecraftModManager.csproj",
       "projectName": "MinecraftModManager",
-      "projectPath": "C:\\Projekte\\MinecraftModManager\\MinecraftModManager\\MinecraftModManager.csproj",
+      "projectPath": "C:\\Projekte\\MinecraftModManager\\MinecraftModManager\\MinecraftModManager\\MinecraftModManager.csproj",
       "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-      "outputPath": "C:\\Projekte\\MinecraftModManager\\MinecraftModManager\\obj\\",
+      "outputPath": "C:\\Projekte\\MinecraftModManager\\MinecraftModManager\\MinecraftModManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -825,7 +842,7 @@
             "target": "Package",
             "version": "[2.5.11, )"
           },
-          "Eto.Serialization.Xaml": {
+          "Eto.Serialization.Json": {
             "target": "Package",
             "version": "[2.5.11, )"
           }
